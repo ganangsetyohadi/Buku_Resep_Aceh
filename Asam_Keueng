@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resep Masakan Aceh - Asam Keueng</title>
+</head>
+<body>
+    <h1>Resep Masakan Aceh</h1>
+    <h2>Asam Keueng</h2>
+    
+    <h3>Bahan-bahan:</h3>
+    <ul>
+        <li>500 gr ikan kakap (atau ikan tongkol, sesuai selera)</li>
+        <li>1 buah jeruk nipis</li>
+        <li>200 ml air asam jawa</li>
+        <li>3 lembar daun jeruk</li>
+        <li>2 batang serai, memarkan</li>
+        <li>2 cm lengkuas, memarkan</li>
+        <li>5 buah cabai rawit merah (sesuai selera pedas)</li>
+        <li>2 buah tomat, potong-potong</li>
+        <li>1 ikat daun kemangi (opsional)</li>
+        <li>1 sdm garam</li>
+        <li>1 sdt gula pasir</li>
+        <li>750 ml air</li>
+    </ul>
+
+    <h3>Bumbu halus:</h3>
+    <ul>
+        <li>6 siung bawang merah</li>
+        <li>3 siung bawang putih</li>
+        <li>3 buah cabai merah</li>
+        <li>3 cm kunyit</li>
+        <li>2 cm jahe</li>
+        <li>1 sdt terasi (opsional)</li>
+    </ul>
+
+    <h3>Cara membuat:</h3>
+    <ol>
+        <li>Bersihkan ikan dan lumuri dengan jeruk nipis. Diamkan selama 10 menit, kemudian bilas bersih.</li>
+        <li>Tumis bumbu halus bersama serai, lengkuas, dan daun jeruk hingga harum.</li>
+        <li>Tambahkan air asam jawa dan air ke dalam tumisan. Aduk rata dan biarkan mendidih.</li>
+        <li>Masukkan ikan, cabai rawit, tomat, dan daun kemangi (jika pakai). Masak hingga ikan matang.</li>
+        <li>Beri garam dan gula pasir. Koreksi rasa, lalu masak hingga kuah sedikit menyusut.</li>
+        <li>Sajikan Asam Keueng selagi hangat dengan nasi putih.</li>
+    </ol>
+
+    <p><a href="kurang_garam.html">Kurangi garam satu sendok teh pada setiap resep</a></p>
+</body>
+</html>
